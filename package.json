@@ -1,0 +1,16 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "learn yourself by problem solving",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Sabbir Rahman Sakib",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
